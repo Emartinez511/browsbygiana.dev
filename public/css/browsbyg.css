@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+}
+
+.navbar {
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+.nav-text {
+    font-size: 18pt;
+}
+
+.featurette-divider {
+    margin: 0;
+}
+
+.brow_gals {
+    background-image: url("/img/browgal_background.png");
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.location_segment {
+    background-color: #efefef;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.reviews_segment {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+#instagram {
+    width: 40px;
+    height: 40px;
+    margin-top: 30px;
+}
+
+#facebook {
+    width: 35px;
+    height: 35px;
+    margin-top: 32px;
+}
+
+.header {
+    background-image: url("/img/topperbackground.png");
+}
+
+#home_img {
+    height: 400px;
+    width: 700px;
+}
+
+#header_img {
+    height: 100px;
+    width: 350px;
+
+}
+
+#reviews_btn {
+    margin-top: 30px;
+}
+
+.landing_background {
+    background-image: url("/img/landing_background.png");
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
