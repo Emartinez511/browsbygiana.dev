@@ -8,20 +8,20 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Brand</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         {{-- <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li> --}}
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Services</a></li>
-        <li><a href="#">Review</a></li>
-        <li><a href="#">Portfolio</a></li>
-        <li><a href="#">Location</a></li>
+        <li><a href="#" class="nav-text">Home</a></li>
+        <li><a href="#" class="nav-text">Services</a></li>
+        <li><a href="http://www.genbook.com/bookings/slot/reservation/30189523/reviews/" class="nav-text">Review</a></li>
+        <li><a href="#" class="nav-text">Portfolio</a></li>
+        <li><a href="#" class="nav-text">Location</a></li>
+        <li><a href="http://www.genbook.com/bookings/slot/reservation/30189523/" class="nav-text">Book Now</a></li>
       </ul>
-      <ul class="nav navbar-nav navbar-right">  
+      <ul class="nav navbar-nav navbar-right">
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
