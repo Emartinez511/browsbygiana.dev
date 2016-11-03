@@ -14,12 +14,13 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         {{-- <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li> --}}
-        <li><a href="#" class="nav-text">Home</a></li>
-        <li><a href="#" class="nav-text">Services</a></li>
-        <li><a href="http://www.genbook.com/bookings/slot/reservation/30189523/reviews/" class="nav-text">Review</a></li>
-        <li><a href="#" class="nav-text">Portfolio</a></li>
-        <li><a href="#" class="nav-text">Location</a></li>
+        {{-- <li><a href="#home" class="nav-text">Home</a></li> --}}
+        {{-- <li><a href="#" class="nav-text">Services</a></li> --}}
+        <li><a href="http://www.genbook.com/bookings/slot/reservation/30189523/reviews/" class="nav-text">Reviews</a></li>
+        {{-- <li><a href="#" class="nav-text">Portfolio</a></li> --}}
+        <li><a href="#location" class="nav-text">Location</a></li>
         <li><a href="http://www.genbook.com/bookings/slot/reservation/30189523/" class="nav-text">Book Now</a></li>
+        <li><a href="https://www.giftfly.com/shop/brows-by-giana-llc" class="nav-text">Gift Cards</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
       </ul>

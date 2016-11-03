@@ -2,6 +2,14 @@ body {
     margin: 0;
 }
 
+.tester {
+    background-color: pink;
+}
+
+.homepage {
+    background-image: url("/img/background.png");
+}
+
 .navbar {
     margin-bottom: 0px;
     text-align: center;
@@ -27,17 +35,22 @@ body {
     background-image: url("/img/browgal_background.png");
     padding-top: 20px;
     padding-bottom: 40px;
+    font-family: 'Yellowtail', cursive;
+
 }
 
 .location_segment {
-    background-color: #efefef;
+    /*background-color: #efefef;*/
     padding-top: 20px;
     padding-bottom: 40px;
+    background-image: url("/img/landing_background.png");
+
 }
 
 .reviews_segment {
     padding-top: 20px;
     padding-bottom: 40px;
+
 }
 
 #instagram {
@@ -75,4 +88,46 @@ body {
     background-image: url("/img/landing_background.png");
     padding-top: 20px;
     padding-bottom: 40px;
+}
+
+.reviews_heading {
+    font-family: 'Yellowtail', cursive;
+}
+
+.location_header {
+    font-family: 'Yellowtail', cursive;
+}
+
+.book_now {
+    color: orange;
+}
+
+.footer li {
+    list-style-type: none;
+    display: inline-block;
+    color: white;
+    padding: 1.5rem;
+}
+
+.footer {
+    background-color: #edc3c1;
+}
+
+.about_me {
+    padding-top: 30px;
+}
+
+.quote {
+    font-style: italic;
+}
+
+#edric_logo {
+    width: 150px;
+    height: 60px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.foot_text {
+    color: white;
 }

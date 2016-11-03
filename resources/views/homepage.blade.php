@@ -4,10 +4,9 @@
 
 
 
-<div class="row featurette landing_background">
-    <div class="col-md-5 col-md-offset-1">
-        <h2 class="featurette-heading">Welcome</h2>
-            <p class="lead">
+<div class="row featurette landing_background" id="home">
+    <div class="col-md-5 col-md-offset-1 about_me">
+            <p class="lead quote">
                 I started my "love affair" with brows while attending The Aveda Institute at San Antonio
                 . After graduation, I became a licensed esthetician & started my career at K.Charles & Co. There I was able to build
                 a steady brow based clientele. Soon after, I accepted an offer with Benefit San Francisco Cosmetics as an "Arch Expert".
@@ -89,10 +88,10 @@
         </div>
     </div>
 </div>
-<div class="location_segment">
+<div class="location_segment" id="location">
     <div class="row">
         <div class="col-md-4 col-md-offset-4 text-center">
-            <h2>Location</h2>
+            <h2 class="location_header">Location</h2>
         </div>
     </div>
     <div class="row">
@@ -111,12 +110,4 @@
 </div>
 
 
-
-          <!-- FOOTER -->
-          <footer>
-            <p class="pull-right"><a href="#">Back to top</a></p>
-            <p>&copy; 2016 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
-          </footer>
-
-        </div><!-- /.container -->
 @stop
