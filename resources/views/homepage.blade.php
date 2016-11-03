@@ -6,7 +6,7 @@
 
 <div class="row featurette landing_background" id="home">
     <div class="col-md-5 col-md-offset-1 about_me">
-            <p class="lead quote">
+            <p class="lead quote text-center">
                 I started my "love affair" with brows while attending The Aveda Institute at San Antonio
                 . After graduation, I became a licensed esthetician & started my career at K.Charles & Co. There I was able to build
                 a steady brow based clientele. Soon after, I accepted an offer with Benefit San Francisco Cosmetics as an "Arch Expert".
