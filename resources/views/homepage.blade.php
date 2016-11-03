@@ -49,30 +49,30 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-md-3">
+        <div class="col-md-4">
             <h3 class="text-center">The best!</h3>
             <blockquote>
-                <p>
+                <p class="quote">
                     “I come all the way from Dallas, TX to have Giana work her magic on my brows. She is the Anastasia to my Kim K.”
                 </p>
                 <p class="pull-right"><small>Meghan G</small></p>
             </blockquote>
         </div>
 
-        <div class="col-md-3 col-md-offset-1">
+        <div class="col-md-4">
             <h3 class="text-center">She's amazing</h3>
             <blockquote>
-                <p>
+                <p class="quote">
                     "Brooklyn is an artist and definitely knows what she is doing... Words of advice: Stop getting your brows done at nail salons!! Go to the experts.”
                 </p>
                 <p class="pull-right"><small>Priscilla</small></p>
             </blockquote>
         </div>
 
-        <div class="col-md-3 col-md-offset-1">
+        <div class="col-md-4">
             <h3 class="text-center">Best brow girls</h3>
             <blockquote>
-                <p>
+                <p class="quote">
                     "Giana and Brooklyn have both done my brows and let me tell you they are the best team! Love the way my brows look after each visit. Thanks girls”
                 </p>
                 <p class="pull-right"><small>Vanessa M</small></p>
