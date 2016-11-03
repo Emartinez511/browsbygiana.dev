@@ -30,11 +30,11 @@
     </div>
 
     <div class="row">
-        <div class="col-md-3 col-md-offset-2 text-center">
+        <div class="col-xs-6 col-md-3 col-md-offset-2 text-center">
             <img class="img-responsive center-block" src="img/gianaframe.png" />
             <h3>Giana</h3>
         </div>
-        <div class="col-md-3 col-md-offset-2 text-center">
+        <div class="col-xs-6 col-md-3 col-md-offset-2 text-center">
             <img class="img-responsive center-block" src="img/brooklynframe.png" />
             <h3>Brooklyn</h3>
         </div>
