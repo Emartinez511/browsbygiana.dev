@@ -2,7 +2,7 @@
 
 @section('content')
 
-{{-- 
+
 
 <div class="row featurette landing_background" id="home">
     <div class="col-md-5 col-md-offset-1 about_me">
@@ -78,17 +78,17 @@
                 <p class="pull-right"><small>Vanessa M</small></p>
             </blockquote>
         </div>
-    </div> --}}
-    {{-- <div class="row">
+    </div>
+    <div class="row">
         <div class="col-md-4 col-md-offset-4 text-center">
             {{-- <p>
                 Click Below for More Reviews
             </p> --}}
-            {{-- <button type="button" class="btn btn-warning" id="reviews_btn" href="http://www.genbook.com/bookings/slot/reservation/30189523/reviews/">REVIEWS</button>
+            <button type="button" class="btn btn-warning" id="reviews_btn" href="http://www.genbook.com/bookings/slot/reservation/30189523/reviews/">REVIEWS</button>
         </div>
-    </div> --}} --}}
-{{-- </div> --}}
-{{-- <div class="location_segment" id="location">
+    </div>
+</div>
+<div class="location_segment" id="location">
     <div class="row">
         <div class="col-md-4 col-md-offset-4 text-center">
             <h2 class="location_header">Location</h2>
@@ -107,7 +107,7 @@
             <iframe width="400" height="250" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJL_tLEDJnXIYRkP2zg1_0YYE&key=AIzaSyAx7VbchvbSpJT03UqHAU3j3tOz3fJNMSM" allowfullscreen></iframe>
         </div>
     </div>
-</div> --}}
+</div>
 
 
 @stop
