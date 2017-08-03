@@ -20,7 +20,6 @@
         {{-- <li><a href="#" class="nav-text">Portfolio</a></li> --}}
         <li><a href="#location" class="nav-text">Location</a></li>
         <li><a href="http://www.genbook.com/bookings/slot/reservation/30189523/" class="nav-text">Book Now</a></li>
-        <li><a href="https://www.giftfly.com/shop/brows-by-giana-llc" class="nav-text">Gift Cards</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
       </ul>
